@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 	<title>MAG industries</title>
@@ -7,12 +7,12 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, help, help you, viber, telegram support">	
 	</head>
 	
-    <body style=background-color:#D5E7FF>
+    <body style="background-color:#D5E7FF">
     
     <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</a></b></p>
     
     <center><h1><b><font color = "#F42300">
-    MAG industries</font><b></h1></center>
+    MAG industries</font><b>
     
     
     <h2><center><b><font color = "#F3A000">future - right now</font></b></center>
@@ -21,7 +21,6 @@
 		<p><center><h2>Тех. поддержка</h2></center></p>
 		<center><p>Если у вас произошли проблемы на сайте то обращаться через поддержку по этой ссылке.</p>
 		<p>Тех. поддержка в <a href="https://invite.viber.com/?g2=AQBu89D4H5NvBFMoyNSA2udnFcbfp5Zvj4x8Yh21me232gGDte%2BQtlPhs%2BLS5mnX">Viber</a></p>
-		<p>Тех. поддержка в <a href="https://t.me/mag_ind">Telegram</a></center></p>
+		<p>Тех. поддержка в <a href="https://t.me/mag_ind">Telegram</a></p>
 		
-	</body>
-</html>
+	
