@@ -177,7 +177,7 @@
             .contact-item img { width: 70px; height: 70px; }
             .contact-item span { font-size: 1.1rem; }
             .logo { max-width: 280px; }
-        }
+        } 
     </style>
 </head>
 <body>
